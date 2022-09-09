@@ -29,7 +29,7 @@ export default function Navbar() {
 
           </Link>
           <Link to='contact' spy={true} smooth={true} offset={50} duration={500}>
-          <li className='hover:text-orange-600 cursor-pointer tracking-widest'>CONTACT</li>
+          <li className='hover:text-orange-600 cursor-pointer tracking-widest'>CONTACT US</li>
 
           </Link>
         </ul>
